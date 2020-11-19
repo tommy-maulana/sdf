@@ -329,85 +329,86 @@ class Home extends React.Component{
 						<div class="card-columns mx-auto dark"  style={{maxWidth: "1000px"}}>
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/moderators/1.jpg" alt="John Doe"/>
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Taufiq Hakim </h4><span>Software Designer</span></div>
-								</div>
-							</a>
-
-							<a href="#" class="team">
-								<div class="team-image">
 									<img src="demos/conference/images/moderators/2.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Raihan Almanet </h4><span>Canvas Business</span></div>
+									<div class="team-title"><h4 class="gradient-text">Raihan </h4><span>Ketua FORTRAN</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/3.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Will Barrow</h4><span>Cloud Management</span></div>
+									<div class="team-title"><h4 class="gradient-text">Ardiansyah </h4><span>Wakil Ketua FORTRAN</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/4.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Pelican Steve</h4><span>Community</span></div>
+									<div class="team-title"><h4 class="gradient-text">Regina</h4><span>Bendahara FORTRAN</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/5.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Gunther Beard</h4><span>Software Designer</span></div>
+									<div class="team-title"><h4 class="gradient-text">Rizal</h4><span>Ketua Tim Bidang Sekolah</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/6.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Desmond Eagle </h4><span>Canvas Business</span></div>
+									<div class="team-title"><h4 class="gradient-text">Muhammad Shidqi</h4><span>Ketua Tim Bidang Kampus</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/7.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Will Barrow</h4><span>Cloud Management</span></div>
+									<div class="team-title"><h4 class="gradient-text">Shabrina </h4><span>Event Management</span></div>
 								</div>
 							</a>
 
 							<a href="#" class="team">
 								<div class="team-image">
-									<img src="demos/conference/images/speakers/8.jpg" alt="John Doe"/>
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4 class="gradient-text">Piff Jenkins</h4><span>Community</span></div>
+									<div class="team-title"><h4 class="gradient-text">Annisa</h4><span>Content Management</span></div>
 								</div>
 							</a>
 
-							<a href="#" class="team joinspeaker ">
-								<div class="team-image gradient-bg">
-									<img src="demos/conference/images/speakers/blank.jpg" alt="John Doe"/>
-									<i class="icon-line-circle-plus gradient-text"></i>
+							<a href="#" class="team">
+								<div class="team-image">
+									<img src="demos/conference/images/speakers/001.jpg" alt="John Doe"/>
 								</div>
-								<div class="team-desc" style={{zIndex: "3"}}>
-									<div class="team-title"><h4 class="gradient-text">Join as a Speaker</h4></div>
+								<div class="team-desc">
+									<div class="team-title"><h4 class="gradient-text">Riska</h4><span>Tech Manager</span></div>
 								</div>
 							</a>
+
+							<a href="#" class="team">
+								<div class="team-image">
+									<img src="demos/conference/images/moderators/1.jpg" alt="John Doe"/>
+								</div>
+								<div class="team-desc">
+									<div class="team-title"><h4 class="gradient-text">Taufiq Hakim</h4><span>EO Specialist</span></div>
+								</div>
+							</a>
+
+
 						</div>
 					</div>
 				</div>{/* <!-- #section-speaker end -->
@@ -464,11 +465,11 @@ class Home extends React.Component{
                                                 </div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">12.30 pm - 13.30 pm</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">12.30 pm - 01.30 pm</div></dt>
 											<dd class="col-sm-9">
 												<div class="schedule-desc">Break and Lunch</div>
 											</dd>
-                                            <dt class="col-sm-3"><div class="schedule-time font-primary">13.30 am - 15.00 pm</div></dt>
+                                            <dt class="col-sm-3"><div class="schedule-time font-primary">01.30 am - 03.00 pm</div></dt>
 											<dd class="col-sm-9">
 												<div class="schedule-desc">Berbagi Perjalanan dan Pengalaman dalam Memulai Karir Sebagai Software Engineer
                                                 <small>- Arief Rahmansyah</small>
@@ -476,7 +477,7 @@ class Home extends React.Component{
                                                 <small>- M Zaki Al-Afrani</small>
                                                 </div>
 											</dd>
-                                            <dt class="col-sm-3"><div class="schedule-time font-primary">13.30 am - 15.00 pm</div></dt>
+                                            <dt class="col-sm-3"><div class="schedule-time font-primary">03.00 pm - 03.30 pm</div></dt>
                                             <dd class="col-sm-9">
 												<div class="schedule-desc">Closing Panel dan Pengumuman Acara Besok 29 Nov 2020, serta ucapan Terima Kasih
                                                 <small>- Shabrina</small>
@@ -487,34 +488,46 @@ class Home extends React.Component{
 									<div class="tab-content clearfix" id="tabs-2">
 										<dl class="row dark mb-0">
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">9:00 am</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">10.00 am - 10.10 am</div></dt>
 											<dd class="col-sm-9">
-												<div class="schedule-desc">Why To Attend Event</div>
+												<div class="schedule-desc">Pembukaan oleh Host:
+												<small>Shabrina</small>
+												</div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">10.00 am</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">10.10 am - 11.50 am</div></dt>
 											<dd class="col-sm-9">
-												<div class="schedule-desc">Surprise Event<small>- Gunther Beard</small></div>
+												<div class="schedule-desc">Peran Komunitas, Lembaga Kursus dan Kampus dalam Mengembangkan Talent Digital di Sumatera Selatan
+												<small>- Malian Zikri</small>
+												<small>- Ahmad Farisi</small>
+												<small>- Joneten Saputra</small>
+												</div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">10.00 am</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">11.50 am - 12.15 pm</div></dt>
 											<dd class="col-sm-9">
-												<div class="schedule-desc">Hiring The Right Way in Ecosystem<small>- Will Barrow</small></div>
+												<div class="schedule-desc">Quiz
+												<small>- Riska</small></div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">11:30 am</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">12.15 pm - 01.00 pm</div></dt>
 											<dd class="col-sm-9">
 												<div class="schedule-desc">Delicious Lunch<small>- Cafeteria</small></div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">12.45 pm</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">01.00 pm - 02.30 pm</div></dt>
 											<dd class="col-sm-9">
-												<div class="schedule-desc">Panel Discussion: Future of Canvas<small>- Will Barrow</small></div>
+												<div class="schedule-desc">Startup yang Melirik Kearifan Lokal (Warung, Tambak Ikan dan Nelayan)
+												<small>- Sofian Hadiwijaya</small>
+												<small>- Farid Naufal</small>
+												<small>- Gibran</small>
+												</div>
 											</dd>
 
-											<dt class="col-sm-3"><div class="schedule-time font-primary">2.30 pm</div></dt>
+											<dt class="col-sm-3"><div class="schedule-time font-primary">02.30 pm - 03.30 pm</div></dt>
 											<dd class="col-sm-9">
-												<div class="schedule-desc">Why Should I Choose Customer Support<small>- Indigo Violet</small></div>
+												<div class="schedule-desc">Ceremonial Closing
+												<small>- Ketua Aptikom Sumsel</small></div>
 											</dd>
 
 										</dl>
@@ -641,8 +654,8 @@ class Home extends React.Component{
 					<div class="container topmargin-lg">
 						<div class="mx-auto dark center" style={{maxWidth: "850px"}}>
 							<h3 class="display-4 gradient-text">Still Getting Confused?</h3>
-							<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nesciunt sint voluptatibus quibusdam veritatis quos dolorum quasi minus, rerum? Officia explicabo hic porro voluptatem ducimus dolor, dolore et. Magni, quidem?</p>
-							<a href="#" class="button button-xxlarge button-white button-light button-gradient-hover mt-4">Contact Us</a>
+							<p class="lead">Silahkan Hubungi kami jika ada kesulitan dalam melakukan registrasi dan pembelian tiket Sriwijaya Digital Festival 2020. Kami dengan senang hati akan memberikan informasi yang Anda perlukan</p>
+							<a href="https://wa.me/+6285100404890" class="button button-xxlarge button-white button-light button-gradient-hover mt-4">Contact Us</a>
 						</div>
 					</div>
 				</div>{/* <!-- #section-tickets end --> */}
