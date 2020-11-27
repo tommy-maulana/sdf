@@ -656,6 +656,8 @@ class Home extends React.Component{
 							<h3 class="display-4 gradient-text">Still Getting Confused?</h3>
 							<p class="lead">Silahkan Hubungi kami jika ada kesulitan dalam melakukan registrasi dan pembelian tiket Sriwijaya Digital Festival 2020. Kami dengan senang hati akan memberikan informasi yang Anda perlukan</p>
 							<a href="https://wa.me/+6285100404890" class="button button-xxlarge button-white button-light button-gradient-hover mt-4">Contact Us</a>
+							<a href="https://linktr.ee/SDF2020" class="button button-xxlarge button-white button-light button-gradient-hover mt-4">Link Youtube</a>
+							<a href="https://drive.google.com/file/d/1kXBXkFABmjOPTroztsuh37-ZPckJCznK/view?usp=sharing" class="button button-xxlarge button-white button-light button-gradient-hover mt-4">Susunan Acara</a>
 						</div>
 					</div>
 				</div>{/* <!-- #section-tickets end --> */}
